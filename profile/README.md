@@ -1,6 +1,6 @@
 # Nacional Project
 
-***Bem-vindo à página dos programadores do Nacional Project! Aqui é onde a mágica acontece (ou não, depende do dia).*** :man_technologist:
+**Bem-vindo à página dos programadores do Nacional Project! Aqui é onde a mágica acontece (ou não, depende do dia).** :man_technologist:
 
 ## Quem Somos
 
