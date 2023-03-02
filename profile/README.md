@@ -1,5 +1,7 @@
 # Nacional Project
 
+[img]https://media.discordapp.net/attachments/857015986783518751/1080918416816341022/nacional_devs.png[/img]
+
 **Bem-vindo à página dos programadores do Nacional Project! Aqui é onde a mágica acontece (ou não, depende do dia).** :man_technologist:
 
 ## Quem Somos
